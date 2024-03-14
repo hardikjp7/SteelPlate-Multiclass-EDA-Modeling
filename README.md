@@ -1,7 +1,8 @@
 # Playground Series - Season 4, Episode 3: EDA/Modelling for Multi-Class Prediction of Steel Plate Defects
 
 This repository contains a Jupyter Notebook detailing the exploratory data analysis (EDA) and modeling process for multi-class prediction of steel plate defects. The notebook is part of the [Playground Series - Season 4, Episode 3](https://www.kaggle.com/competitions/playground-series-s4e3).
-[Kaggle Notebook](https://www.kaggle.com/code/hardikjp7/steel-plate-eda-and-xgboost/notebook)
+
+## [Kaggle Notebook](https://www.kaggle.com/code/hardikjp7/steel-plate-eda-and-xgboost/notebook)
 ## Overview
 
 The notebook is structured into six main parts:
